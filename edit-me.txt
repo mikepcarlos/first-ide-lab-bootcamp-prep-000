@@ -1,2 +1,1 @@
-var mySadLife = "I'm at work all day"
-console.log(mySadLife)
+"Hello World!"
